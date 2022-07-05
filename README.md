@@ -4,7 +4,7 @@ Starting my journey of Blockchains and Smart Contracts.
 This is a beginner friendly implementation of Blockchains in Python.
 
 # Module 1
-Creating a blockchain in Python using. User can mine a block, get the full chain and also check for validity of the chain.
+Creates a blockchain in Python using Hashlib, Flask. User can mine a block, get the full chain and also check for validity of the chain.
   1. Deploy locally on your machine.
   2. User-friendly Postman could be used for GET and POST requests.
 
